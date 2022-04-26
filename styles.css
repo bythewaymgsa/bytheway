@@ -642,7 +642,7 @@ a.from-me:hover:after {
       text-align: center;
       line-height: 1.2em;
       margin: 1vw 0vw 0vw;
-      padding: 0.3vw 1vw 0.5vw 1vw;
+      padding: 0.3rem .6rem 0.4rem .6rem;
       background-color: #231f20;
       border-radius: 0.7vw;
       text-decoration: none;
@@ -663,8 +663,8 @@ a.from-me:hover:after {
       text-align: center;
       line-height: 1.2em;
       margin: 1vw 0vw 0vw;
-      padding: 0.3vw 1vw 0.5vw 1vw;
-      background-color: #fff;
+      padding: 0.3rem .6rem 0.4rem .6rem;
+      background-color: white;
       border-radius: 0.7vw;
       text-decoration: none;
       color: #231f20;
