@@ -215,7 +215,6 @@ a {
 .bubble {
   padding: 1vw 2.5vw 1vw 0vw;
   margin: 6vw 6vw 1vw 0vw;
-  background-color: #fff200;
   width: 30.5%;
   transition: 0.2s ease;
   text-align: right;
@@ -239,7 +238,6 @@ a {
     .bubble {
       padding: 1vw 8.5vw 1vw 0vw;
       margin: 6vw 6vw 1vw 0vw;
-      background-color: #fff200;
       width: 29.5%;
       transition: 0.2s ease;
       text-align: right;
