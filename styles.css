@@ -472,10 +472,10 @@ p.from-me {
   display: inline-block;
   white-space: nowrap;
   width: fit-content;
-  text-align: center;
-  line-height: 1.2em;
+  text-align: center; 
   margin: 1vw 0vw 0vw;
-  padding: 0.6vw 1vw 0.2vw 1vw;
+  padding: .8rem .9rem .4rem .9rem;
+/*   padding: 0.6vw 1vw 0.2vw 1vw; */
   background-color: #231f20;
   border-radius: 0.7vw;
   text-decoration: none;
@@ -501,9 +501,9 @@ p.from-them {
   white-space: nowrap;
   width: fit-content;
   text-align: center;
-  line-height: 1.2em;
   margin: 1vw 0vw 0vw;
-  padding: 0.6vw 1vw 0.2vw 1vw;
+  padding: .8rem .9rem .4rem .9rem;
+/*   padding: 0.6vw 1vw 0.2vw 1vw; */
   background-color: #fff;
   border-radius: 0.7vw;
   text-decoration: none;
@@ -884,7 +884,6 @@ section:target {
   .bubble {
     padding: 7vw 0vw 1vw 0vw;
     margin: 18vw 10vw 1vw;
-    /*    background-color: white;*/
     width: 80%;
     transition: 0.2s ease;
     text-align: right;
