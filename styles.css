@@ -474,7 +474,11 @@ p.from-me {
   width: fit-content;
   text-align: center; 
   margin: 1vw 0vw 0vw;
-  padding: .8rem .9rem .4rem .9rem;
+  line-height: 1;
+  padding-top: .6rem;
+  padding-bottom: .55rem;
+  padding-left: .9rem;
+  padding-right: .9rem;
 /*   padding: 0.6vw 1vw 0.2vw 1vw; */
   background-color: #231f20;
   border-radius: 0.7vw;
@@ -502,7 +506,11 @@ p.from-them {
   width: fit-content;
   text-align: center;
   margin: 1vw 0vw 0vw;
-  padding: .8rem .9rem .4rem .9rem;
+  line-height: 1;
+  padding-top: .6rem;
+  padding-bottom: .55rem;
+  padding-left: .9rem;
+  padding-right: .9rem;
 /*   padding: 0.6vw 1vw 0.2vw 1vw; */
   background-color: #fff;
   border-radius: 0.7vw;
