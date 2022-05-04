@@ -196,6 +196,10 @@ h1 {
 
 .work-single {
   align-self: center;
+  max-width: 90% !important;
+}
+
+.work-single img {
 }
 
 a {
